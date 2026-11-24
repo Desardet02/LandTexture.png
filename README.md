@@ -5,7 +5,7 @@
 - `tile_open.png` — green open ground (also used for hidden sample sites)
 - `tile_sand.png` — sandy with heavy speckle dots (terrain `~`)
 - `tile_rock.png` — gray with cracks (terrain `#`)
-- `tile_charger.png` — cyan (terrain `C`)
+- `tile_charger.png` — cyan with white helipad H (terrain `C`)
 
 Each tile has granular noise, pebbles, and inner edge shading. Regenerate with:
 `python3 make_tiles.py`
